@@ -18,7 +18,7 @@ This repository contains the **Flutter frontend** and **Java backend** for an E-
 ## Technologies
 - Flutter, Dart
 - Java, Spring Boot
-- MySQL/PostgreSQL (for backend)
+- MySQL (for backend)
 
 ---
 
